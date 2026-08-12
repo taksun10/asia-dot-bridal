@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "brands": "Brands",
+    "styles": "Browse by Style",
+    "guide": "Ring Guide",
+    "journal": "Journal",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "en": "Japan Bridal Ring — Selected 8 Brands",
+    "h1_line1": "Japanese Artisan Bridal Rings,",
+    "h1_accent": "Crafted for Eternity",
+    "h1_line2": "— For You.",
+    "sub": "Eight premium Japanese bridal ring brands, curated for couples in Hong Kong & Taiwan. Where century-old craftsmanship meets timeless beauty.",
+    "cta_brands": "Explore Brands",
+    "cta_whatsapp": "Chat on WhatsApp"
+  },
+  "why": {
+    "eyebrow": "Why Japan",
+    "title": "Three Reasons to Choose a Japanese Bridal Ring",
+    "item1_title": "Century-Old Artisan Craft",
+    "item1_body": "Japanese bridal ring artisans inherit traditional metalwork techniques, carefully finishing each ring through dozens of precise steps. Unmatched quality lives in every detail.",
+    "item2_title": "A Distinct Aesthetic Philosophy",
+    "item2_body": "The Eastern aesthetics of 'Mono no Aware' and 'Wabi-sabi' give Japanese rings a quiet beauty unlike anything from European brands — understated, yet deeply meaningful.",
+    "item3_title": "An Enduring Quality Promise",
+    "item3_body": "Using Pt950 platinum and carefully selected gemstones, every brand meets Japan's rigorous quality standards — ensuring your rings last as long as your promise."
+  },
+  "brands": {
+    "eyebrow": "Our 9 Brands",
+    "title": "9 Curated Japanese Brands",
+    "see_all": "View All Brands"
+  },
+  "styles": {
+    "eyebrow": "Explore by Style",
+    "title": "Find Your Ring by Style",
+    "romantic": "Romantic & Sweet",
+    "elegant": "Elegant & Refined",
+    "japanese_modern": "Japanese Modern",
+    "minimal": "Minimal & Pure"
+  },
+  "journal": {
+    "eyebrow": "Journal",
+    "title": "Everything You Want to Know About Japanese Bridal Rings",
+    "see_all": "View All Articles"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "q1": "Can I purchase a Japanese bridal ring from Hong Kong or Taiwan?",
+    "a1": "Yes. Please contact us via our enquiry form, WhatsApp, or LINE, and we will guide you through each brand's ordering process and shipping arrangements.",
+    "q2": "What is the price range for Japanese bridal rings?",
+    "a2": "Prices vary by brand and design. A pair of rings typically ranges from HK$8,000 to HK$50,000 and above. Contact us for a detailed quote from any specific brand.",
+    "q3": "What is Pt950? How does it differ from white gold?",
+    "a3": "Pt950 means 95% pure platinum — the most common material used in Japanese bridal rings. It offers superior hardness, corrosion resistance, and lasting brilliance compared to 18K white gold (75% gold).",
+    "q4": "Can I try on rings at a store in Japan?",
+    "a4": "Yes. We can assist with appointments at Japanese brand showrooms during your visit to Japan, so you can experience the craftsmanship and feel firsthand."
+  },
+  "cta": {
+    "eyebrow": "Contact Us",
+    "title": "Let's Find Your Perfect Ring Together",
+    "sub": "Our bridal ring consultants are here to help you find the right Japanese brand for your story.",
+    "whatsapp": "WhatsApp (Hong Kong)",
+    "line": "LINE (Taiwan)",
+    "email": "Send an Enquiry"
+  },
+  "footer": {
+    "desc": "Official overseas portal for Japan's premier bridal ring brands. Operated by Agurove Co., Ltd. — curated for couples in Hong Kong & Taiwan.",
+    "brands_col": "Brands",
+    "guide_col": "Guide",
+    "copyright": "© 2026 Agurove Co., Ltd. / dot-bridal.com All rights reserved."
+  }
+}
